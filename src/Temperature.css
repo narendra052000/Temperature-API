@@ -1,0 +1,64 @@
+body{
+    background-image: url('D:\narendra-d-react\public\Weather.jpg');
+    /* background-image: url('https://climatereanalyzer.org/clim/animations/scycle/CCSM4-LGM_T2_scycle.gif'); */
+    background-repeat: no-repeat;
+ background-size:cover;
+ 
+ }
+ .Body{
+    
+    margin: 5% 33%;
+     padding:2%;
+     border:5px solid rgb(159, 159, 247);
+     border-radius: 25% 0%;
+ }
+ button{
+     background-color: aqua;
+ }
+ #img1{
+     width:90%;
+     border-radius: 25px 0px 25px 0px;
+     margin: 6%;
+ }
+ p{
+     color: rgb(195, 195, 244);
+ }
+ h3,h6{
+ 
+ color: black;
+ }
+ h2{
+     color:rgb(7, 0, 0);
+     font-family: monospace ;
+ }
+ h1{
+     color: rgb(0, 0, 7);
+ }
+ input:hover{
+     box-shadow: 0px 0px 10px rgb(6, 6, 6);
+ }
+ /* #tempH{
+ filter:drop-shadow(10px 2px 5px rgb(233, 177, 97))} */
+ /* @media only screen and (max-width: 320px) {
+     body{
+         background-image: url('D:\narendra-d-react\public\Weather.jpg');
+         background-repeat: no-repeat;
+      background-size: cover;}
+      .Body{
+       
+         
+        
+      }
+      #img1{
+          width:90%;
+          border-radius: 25px;
+          margin: 6%;
+      }
+      p{
+          color: rgb(195, 195, 244);
+      }
+      h3,h6{
+      
+      color: black;
+      }
+   } */
